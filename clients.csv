@@ -1,0 +1,16 @@
+client_id,client_name,country,region,sales_manager
+C001,Adriatic Retail,Montenegro,Balkans,Marina Petrovic
+C002,Balkan Trade,Serbia,Balkans,Marina Petrovic
+C003,Dalmatia Stores,Croatia,Balkans,Marina Petrovic
+C004,MontCo Markets,France,Western Europe,Jean Martin
+C005,Serbia Supply,Italy,Western Europe,Jean Martin
+C006,Croatia Hub,Poland,Central Europe,Anna Kowalska
+C007,Paris Partners,Czechia,Central Europe,Anna Kowalska
+C008,Milano Distribuzione,Austria,Central Europe,Anna Kowalska
+C009,Polska Market,Norway,Nordics,Lars Johansen
+C010,Praha Wholesale,Sweden,Nordics,Lars Johansen
+C011,Vienna Chain,Montenegro,Balkans,Marina Petrovic
+C012,Nordic Goods NO,Serbia,Balkans,Marina Petrovic
+C013,Nordic Goods SE,Croatia,Balkans,Marina Petrovic
+C014,Copenhagen Retail,France,Western Europe,Jean Martin
+C015,Baltic Bridge,Italy,Western Europe,Jean Martin
